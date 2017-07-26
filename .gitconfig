@@ -1,0 +1,8 @@
+[remote "Valloric"]
+	url = https://github.com/Valloric/ycmd
+    fetch = +refs/heads/*:refs/remotes/Valloric/*
+[push]
+    remote = origin
+[gsync]
+    remote = Valloric
+    branch = master
